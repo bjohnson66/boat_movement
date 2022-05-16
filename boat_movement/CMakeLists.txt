@@ -166,7 +166,7 @@ include_directories(
    python_scripts/sinMove.py
    python_scripts/gpsMove.py
    python_scripts/matrixWaypointNav.py
-   python_scripts/trajectoryMovement.py
+   python_scripts/PIVController.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
 
